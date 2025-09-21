@@ -4,7 +4,7 @@
 import DepartmentTemplate from '@/app/components/departments/DepartmentTemplate';
 import Navbar from '../components/Navbar';
 import { motion } from 'framer-motion';
-import { FiBookOpen, FiUsers, FiAward, FiCalendar } from 'react-icons/fi';
+import { FiBookOpen, FiUsers, FiAward, FiCalendar, FiTool } from 'react-icons/fi';
 
 const TelecomPage = () => {
   const departmentData = {
