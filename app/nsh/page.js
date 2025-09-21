@@ -119,7 +119,7 @@ const NSHPage = () => {
           </p>
           <p>
             Our curriculum is designed to develop not only subject-specific knowledge but also transferable skills such as 
-            analytical thinking, problem-solving, and effective communication - skills that are highly valued in today's 
+            analytical thinking, problem-solving, and effective communication - skills that are highly valued in today&apos;s 
             competitive job market.
           </p>
         </div>
