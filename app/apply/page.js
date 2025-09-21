@@ -51,7 +51,7 @@ export default function ApplyEngineeringPage() {
             <li>Online Admission Forms available from <strong>10/07/2025</strong> (Thursday) </li>
             <li>Last date for submission of Online Admission Forms (All categories) <strong>15/08/2025</strong> (Friday) </li>
             <li>Hafiz-e-Quran Test (For Undergraduate Programs only): <strong>16/08/2025</strong> (Saturday) </li>
-            <li>Display of candidates' data for correction/rectification of errors & changes in preference: <strong>16/08/2025</strong> (Saturday) </li>
+            <li>Display of candidates&apos; data for correction/rectification of errors & changes in preference: <strong>16/08/2025</strong> (Saturday) </li>
             <li>Display of 1st merit list (Open Merit, Rationalized scheme, and Reserved seats): <strong>17/08/2025</strong> (Sunday) </li>
             <li>Admission/interviews (1st Open Merit, Rationalized scheme, Reserved seats): <strong>18-19/08/2025</strong> (Monday & Tuesday) </li>
             <li>Display of 2nd Open Merit List (Open Merit, Rationalized scheme): <strong>20/08/2025</strong> (Wednesday) </li>
